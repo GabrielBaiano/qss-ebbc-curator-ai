@@ -1,0 +1,612 @@
+[
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00337",
+    "Título": "Open Science at the generative AI turn: An exploratory analysis of challenges and opportunities",
+    "Autoria": "Mohammad Hosseini, Serge P. J. M. Horbach, Kristi Holmes, Tony Ross‐Hellauer",
+    "Palavras-chave": "Transparency (behavior), Openness to experience, Computer science, Data science, Workflow, Citizen science, Open science, Knowledge management, Equity (law), Citizen journalism, Political science, Psychology, World Wide Web",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "N/A",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "N/A"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00348",
+    "Título": "How open are hybrid journals included in transformative agreements?",
+    "Autoria": "Najko Jahn",
+    "Palavras-chave": "Transformative learning, Business, Computer science, Political science, Psychology, Pedagogy",
+    "Ferramenta utilizada": "Journal Checker Tool (cOAlition S)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Journal Checker Tool, Crossref, OpenAlex"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00339",
+    "Título": "Using bibliometrics to detect questionable authorship and affiliation practices and their impact on global research metrics: A case study of 14 universities",
+    "Autoria": "Lokman I. Meho, Elie A. Akl",
+    "Palavras-chave": "Bibliometrics, Library science, Social science, Data science, Sociology, Computer science",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Metadados de universidades (ranking e citações globais)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.12",
+    "Título": "Guidance for the reporting of bibliometric analyses: A scoping review",
+    "Autoria": "Jeremy Y. Ng, Henry Liu, Mehvish Masood, Niveen Syed, Dimity Stephen, Ana Patricia Ayala, Michel Sabé, Marco Solmi, Ludo Waltman, Stefanie Haustein, David Moher",
+    "Palavras-chave": "Data science, Management science, Psychology, Computer science, Engineering",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Bases de dados bibliográficas (5 bases), Servidores de preprints (3 servidores)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.1",
+    "Título": "Examining the geographic and linguistic coverage of gold and diamond open access journals in OpenAlex, Scopus, and Web of Science",
+    "Autoria": "Marc‐André Simard, Isabel Basson, Madelaine Hare, Vincent Larivière, Philippe Mongeon",
+    "Palavras-chave": "Scopus, Web of science, World Wide Web, Diamond, Data science, Computer science, Geography, Political science, MEDLINE, Materials science, Metallurgy",
+    "Ferramenta utilizada": "Diretório de Periódicos de Acesso Aberto (DOAJ) Benchmark",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "DOAJ, OpenAlex, Web of Science (WoS), Scopus"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00363",
+    "Título": "A survey of knowledge organization systems of research fields: Resources and challenges",
+    "Autoria": "Angelo A. Salatino, Tanay Aggarwal, Andrea Mannocci, Francesco Osborne, Enrico Motta",
+    "Palavras-chave": "Knowledge management, Knowledge organization, Survey research, Data science, Computer science, Business",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Sistemas de Organização do Conhecimento (45 KOSs)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.22",
+    "Título": "Academic freedom and international research collaboration: A longitudinal analysis of global network evolution",
+    "Autoria": "Travis A. Whetsell, Jen Sidorova, J. Yang",
+    "Palavras-chave": "Network analysis, Political science, Regional science, Sociology, Engineering",
+    "Ferramenta utilizada": "Modelos de Atores Estocásticos (SAOM) / RSiena",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Web of Science, Varieties of Democracy Project (Academic Freedom Index)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00338",
+    "Título": "Open access journals lack image accessibility guidelines",
+    "Autoria": "Kaitlin Stack Whitney, Julia Perrone, Christie A. Bahlai",
+    "Palavras-chave": "Computer science, Optometry, Internet privacy, Business, Medicine",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Diretrizes de autores e declarações de acesso aberto de 300 periódicos"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00353",
+    "Título": "The retraction gender gap: Are mixed teams more vulnerable?",
+    "Autoria": "Abdelghani Maddi, Emmanuel Monneau, Catherine Guaspare-Cartron, Floriana Gargiulo, Michel Dubois",
+    "Palavras-chave": "Psychology, Gender gap, Business, Demographic economics, Economics",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Retraction Watch, Amostra de 1 milhão de publicações"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00358",
+    "Título": "Dissecting the global peer review ecosystem: Skewness, homophily, and diversity dynamics",
+    "Autoria": "Xiang Zheng, Chaoqun Ni",
+    "Palavras-chave": "Homophily, Skewness, Diversity (politics), Peer review, Dynamics (music), Ecosystem, Geography, Ecology, Sociology, Economics, Econometrics, Biology, Social science",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Publons"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00368",
+    "Título": "Where there’s a will there’s a way: ChatGPT is used more for science in countries where it is prohibited",
+    "Autoria": "Honglin Bao, Mengyi Sun, Misha Teplitskiy",
+    "Palavras-chave": "Political science, Computer science",
+    "Ferramenta utilizada": "Classificador de texto baseado em Machine Learning (ChatGPT Detector)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "arXiv, bioRxiv, medRxiv, OpenAI ChatGPT"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.6",
+    "Título": "Mathematical reflections on modified fractional counting",
+    "Autoria": "Leo Egghe, Ronald Rousseau",
+    "Palavras-chave": "Mathematics, Mathematics education, Calculus (dental), Medicine",
+    "Ferramenta utilizada": "Lei de Sivertsen, Rousseau e Zhang (MFC)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "N/A (Análise puramente matemática e teórica)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.24",
+    "Título": "Tracking transformative agreements through open metadata: Method and validation using Dutch Research Council NWO funded papers",
+    "Autoria": "Hans de Jonge, Bianca Kramer, Jeroen Sondervan",
+    "Palavras-chave": "Metadata, Transformative learning, Tracking (education), Research council, Computer science, Political science, World Wide Web, Library science, Information retrieval, Sociology, Data science, Philosophy",
+    "Ferramenta utilizada": "Journal Checker Tool (cOAlition S)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Journal Checker Tool, OpenAlex, Consórcio UKB (bibliotecas holandesas)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.23",
+    "Título": "A supervised machine learning approach for assessing grant peer review reports",
+    "Autoria": "Gabriel Okasa, Ariana Rodríguez León, Michaela Strinzel, Anne Jorstad, Katrin Milzow, Matthias Egger, Stefan Müller",
+    "Palavras-chave": "Computer science, Machine learning, Artificial intelligence",
+    "Ferramenta utilizada": "Modelos de Linguagem Transformers (NLP), Classificadores Supervisionados (XGBoost/BERT)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Fundação Nacional de Ciência da Suíça (SNSF)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00367",
+    "Título": "The use of informetric methods to study diversity in the scientific workforce: A literature review",
+    "Autoria": "Nicolás Robinson‐García, Carmen Corona-Sobrino, Zaida Chinchilla‐Rodríguez, Daniel Torres‐Salinas, Rodrigo Costas",
+    "Palavras-chave": "Diversity (politics), Workforce, Workforce diversity, Scientific literature, Sociology, Computer science, Information retrieval, Management science, Mathematics, Political science, Engineering, Biology, Anthropology, Law",
+    "Ferramenta utilizada": "Algoritmos de Desambiguação de Nomes de Autores",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "OpenAlex, ORCID"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.14",
+    "Título": "Mapping the publisher types and collaborations behind Web of Science indexed journals",
+    "Autoria": "Zehra Taşkın, Janne Pölönen, Emanuel Kulczycki, Mikael Laakso",
+    "Palavras-chave": "World Wide Web, Web of science, Computer science, Library science, Information retrieval, Political science, MEDLINE",
+    "Ferramenta utilizada": "ISSN International Centre Custom Classification",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Web of Science (WoS), ISSN International Centre"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.16",
+    "Título": "Quantifying lifetime productivity changes: A longitudinal study of 320,000 late-career scientists",
+    "Autoria": "Marek Kwiek, Łukasz Szymula",
+    "Palavras-chave": "Productivity, Longitudinal study, Longitudinal data, Psychology, Demographic economics, Economics, Demography, Sociology, Medicine, Economic growth",
+    "Ferramenta utilizada": "Modelos de Regressão Longitudinal",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Scopus (dados brutos)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.17",
+    "Título": "On the open road to universal indexing: OpenAlex and Open Journal Systems",
+    "Autoria": "Diego Chavarro, Juan Pablo Alperín, John Willinsky",
+    "Palavras-chave": "Search engine indexing, Computer science, World Wide Web, Information retrieval",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "OpenAlex, Open Journal Systems (OJS), Crossref"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.393",
+    "Título": "Implicit and explicit research quality score probabilities from ChatGPT",
+    "Autoria": "Mike Thelwall, Yunhan Yang",
+    "Palavras-chave": "Proxy (statistics), Quality Score, Leverage (statistics), Correlation, Ranking (information retrieval), Quality (philosophy), Statistical hypothesis testing",
+    "Ferramenta utilizada": "ChatGPT 4o-mini (OpenAI LLM)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "U.K. Research Excellence Framework (REF) 2021, OpenAI ChatGPT"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00365",
+    "Título": "Research topic choice: Motivations, strategies, and consequences",
+    "Autoria": "Sidney Xiang, Daniel M. Romero, Misha Teplitskiy",
+    "Palavras-chave": "Sociology, Psychology, Data science, Computer science",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "N/A",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Literatura científica secundária (Revisão teórica)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.394",
+    "Título": "A review of annual statements on research integrity from U.K. institutions in 2023–2024, with a focus on research fraud",
+    "Autoria": "Dorothy Bishop",
+    "Palavras-chave": "Allegation, Misconduct, Research integrity, Scientific misconduct, Institution, Misappropriation, Focus (optics), Scientific integrity",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Declarações de integridade de 117 universidades britânicas, PubPeer"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00346",
+    "Título": "Teaching counts! Open Educational Resources as an object of measurement for scientometric analysis",
+    "Autoria": "Sylvia Kullmann",
+    "Palavras-chave": "Open educational resources, Computer science, Citation, Object (grammar), Data science, Learning object, World Wide Web, Multimedia, Artificial intelligence",
+    "Ferramenta utilizada": "Categorias de OER (Dedicated Learning Content, Learning Design Content, OER Ecosystem)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "N/A (Estudo metodológico conceitual)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00343",
+    "Título": "The transformative relation between publishers and editors: Research quality and academic autonomy at stake",
+    "Autoria": "Fernanda Beigel",
+    "Palavras-chave": "Transformative learning, Relation (database), Autonomy, Sociology, Quality (philosophy), Library science, Management, Political science, Media studies, Philosophy, Epistemology, Computer science, Law, Economics, Pedagogy",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "SciELO, Redalyc"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00341",
+    "Título": "Global mobility of the recent STEM postdoctoral workforce registered in ORCID",
+    "Autoria": "Hyunuk Kim",
+    "Palavras-chave": "Workforce, Library science, Medicine, Medical education, Political science, Computer science, Law",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "ORCID"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00366",
+    "Título": "The “Network Society” moves in mysterious ways: 25 years in the reception of a core concept",
+    "Autoria": "Catarina Cardoso, Cátia Miriam Costa, Bruno Damásio, Sandro Mendonça",
+    "Palavras-chave": "Core (optical fiber), Sociology, History, Epistemology, Telecommunications, Computer science, Philosophy",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Bases de dados bibliográficas (Scopus/Web of Science)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00340",
+    "Título": "Have public universities in Germany become more isomorphic? Methodology and empirical test, 1995–2020",
+    "Autoria": "Thomas Heinze, Rafael Josek",
+    "Palavras-chave": "Test (biology), Empirical research, Political science, Regional science, Sociology, Mathematics, Statistics, Geology",
+    "Ferramenta utilizada": "Relative Specialization Index (RSI - Índice de Especialização Relativa)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Dados de universidades alemãs (pessoal, estudantes e financiamento)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00345",
+    "Título": "A long and winding road: Research impact evaluation over public policies",
+    "Autoria": "Evandro Coggo Cristofoletti, Sergio Salles-Filho, Yohanna Juk, Bernardo Pereira Cabral, Karen Esteves Fernandes Pinto, Sandra Hollanda, Carlos Graziani, Cesar A. Guimarães Pereira",
+    "Palavras-chave": "Gateway (web page), Relevance (law), Sustainability, Political science, Database, Data science, Computer science, World Wide Web",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Overton, FAPESP"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.7",
+    "Título": "Evolution of ESG-focused DLT research: An NLP analysis of the literature",
+    "Autoria": "Walter Hernández, Kamil Tylinski, Alastair Moore, Niall Roche, Nikhil Vadgama, Horst Treiblmaier, Jiangbo Shangguan, Paolo Tasca, Jiahua Xu",
+    "Palavras-chave": "Natural language processing, Artificial intelligence, Computer science, Linguistics, Philosophy",
+    "Ferramenta utilizada": "Modelos de Processamento de Linguagem Natural (NLP / NER), Análise de Grafos Temporais",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Base de dados de 24.539 publicações de DLT/Blockchain"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.20",
+    "Título": "The data infrastructure of the German <i>Kompetenznetzwerk Bibliometrie</i> : An enabling intermediary between raw data and analysis",
+    "Autoria": "Marion Schmidt, Christine Rimmert, Dimity Stephen, Christopher Lenke, Paul Donner, Scott Gartner, Niels Taubert, T. Bausenwein, Stephan Stahlschmidt",
+    "Palavras-chave": "Raw data, German, Business, Computer science, Data science, Geography, Archaeology",
+    "Ferramenta utilizada": "Kompetenznetzwerk Bibliometrie (KB) Data Infrastructure",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Kompetenznetzwerk Bibliometrie (KB) (dados bibliométricos comerciais e abertos)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00359",
+    "Título": "Political hegemony, imitation isomorphism, and project familiarity: Instrumental variables to understand funding impact on scholar performance",
+    "Autoria": "Yang Ding, Yi Bu",
+    "Palavras-chave": "Imitation, Instrumental variable, Isomorphism (crystallography), Hegemony, Politics, Political science, Sociology, Psychology, Economics, Social psychology, Econometrics, Law",
+    "Ferramenta utilizada": "Modelos de Regressão 2SLS (Two-stage least squares), Variáveis Instrumentais (IV)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Microsoft Academic Graph (MAG), Web of Science (WoS)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00364",
+    "Título": "Prevalence of Registered Reports in experimental psychology journals: A bibliometric study",
+    "Autoria": "Dennis M. Gorman, David Hubbard",
+    "Palavras-chave": "Bibliometrics, Psychology, Library science, Social science, Applied psychology, Sociology, Computer science",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Web of Science"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.5",
+    "Título": "Gender disparity in funding rates in double-blind grant peer review: The case of the Villum Experiment",
+    "Autoria": "Emil Bargmann Madsen, Philippe Mongeon, Jesper Wiborg Schneider",
+    "Palavras-chave": "Gender bias, Inequality, Grant funding, Gender disparity, Gender inequality, Implicit bias, Demographic economics, Psychology, Political science, Social psychology, Economics, Public administration",
+    "Ferramenta utilizada": "Modelos de Grafos Acíclicos Direcionados (DAG), Modelagem Multinível com Pós-estratificação",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Villum Experiment (VEX)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.396",
+    "Título": "Coverage and metadata completeness and accuracy of African research publications in OpenAlex: A comparative analysis",
+    "Autoria": "Patricia Alonso-Álvarez, Nees Jan van Eck",
+    "Palavras-chave": "Metadata, Scopus, Completeness (order theory), Web of science, Data source",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "OpenAlex, Scopus, Web of Science, African Journals Online (AJOL)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00355",
+    "Título": "Screening articles by citation reputation",
+    "Autoria": "Vicente Safón, Domingo Docampo, L. E. Cram",
+    "Palavras-chave": "Citation, Reputation, Prestige, Popularity, Web of science, Citation impact, Computer science, Citation analysis, Control (management), Peer review, Set (abstract data type), Data science, World Wide Web, Psychology, Social science, Political science, MEDLINE, Sociology, Artificial intelligence, Social psychology",
+    "Ferramenta utilizada": "Método Reputable Citations (RC)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Clarivate InCites Essential Science Indicators, Web of Science"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_c_00347",
+    "Título": "On the limits of causal theory for studying inequalities in science",
+    "Autoria": "Diego Kozlowski",
+    "Palavras-chave": "Popularity, Gateway (web page), Explanatory power, Inequality, Causal model, Computer science, Epistemology, Psychology, Social psychology, Mathematics, World Wide Web, Philosophy, Statistics",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "N/A",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "N/A (Carta teórica e epistemológica)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00349",
+    "Título": "Representing the disciplinary structure of physics: A comparative evaluation of graph and text embedding methods",
+    "Autoria": "Isabel Constantino, Sadamori Kojaku, Santo Fortunato, Yong‐Yeol Ahn",
+    "Palavras-chave": "Embedding, Discipline, Graph, Computer science, Physics, Theoretical computer science, Artificial intelligence, Sociology, Social science",
+    "Ferramenta utilizada": "Modelos de Embedding de Grafo (node2vec, residual2vec), Modelos de Embedding de Texto",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "American Physical Society (APS)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00351",
+    "Título": "Highly Cited Researchers: Anatomy of a list",
+    "Autoria": "Lauranne Chaignon",
+    "Palavras-chave": "Gateway (web page), Context (archaeology), Computer science, Data science, Analytics, Key (lock), Library science, World Wide Web, History, Archaeology, Computer security",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Websites da Clarivate, ISI e Thomson Reuters"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00352",
+    "Título": "Metrics and peer review agreement at the institutional level",
+    "Autoria": "Vincent Traag, Marco Malgarini, Scipione Sarlo",
+    "Palavras-chave": "Peer review, Computer science, Political science, Law",
+    "Ferramenta utilizada": "Modelo Bayesiano Hierárquico com Validação Cruzada",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Avaliação Nacional Italiana de Pesquisa VQR (2011–2014)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00361",
+    "Título": "Categorization of scientometric data in a Benfordian context",
+    "Autoria": "Marc Bertin, Thierry Lafouge",
+    "Palavras-chave": "Context (archaeology), Data science, Computer science, Information retrieval, Geography, Archaeology",
+    "Ferramenta utilizada": "Lei de Benford (Benford's Law), Testes qui-quadrado, MAD e Max",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Web of Science, Scopus, Dados históricos"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.11",
+    "Título": "Race science in mainstream psychology, 1960–2010",
+    "Autoria": "Daniel Hicks, Emilio J. C. Lobato",
+    "Palavras-chave": "Mainstream, Race (biology), Psychology, Sociology, Gender studies, Political science",
+    "Ferramenta utilizada": "Métodos de Mineração de Texto e Cienciometria",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Periódicos de ciências do comportamento e Mankind Quarterly"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.13",
+    "Título": "Measuring research interest similarity with transition probabilities",
+    "Autoria": "Attila Varga, Sadamori Kojaku, Filipi N. Silva",
+    "Palavras-chave": "Similarity (geometry), Transition (genetics), Econometrics, Statistical physics, Computer science, Artificial intelligence, Mathematics, Physics, Chemistry",
+    "Ferramenta utilizada": "Python (Pacote de medidas de transição), personalized PageRank, node2vec",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Rede de citações de artigos e coautoria"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00336",
+    "Título": "Multivariate dynamics of Ecuadorian public universities and their research trends, according to Web of Science (pre-COVID period)",
+    "Autoria": "Dennis Alfredo Peralta-Gamboa, Patricio Álvarez-Muñoz, Fernando Pacheco Olea, Angelo Marcos Aviles Valenzuela",
+    "Palavras-chave": "Period (music), Dynamics (music), Multivariate statistics, Regional science, Multivariate analysis, Library science, Geography, Political science, Sociology, Statistics, Computer science, Mathematics, Art, Pedagogy",
+    "Ferramenta utilizada": "Método HJ-biplot",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados, visualização - gerar gráficos",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Web of Science"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00342",
+    "Título": "Exploration and exploitation: Which research strategy are you better at?",
+    "Autoria": "Shengzhi Huang, Wei Lu, Qikai Cheng, Li Zhang, Yong Huang",
+    "Palavras-chave": "Computer science",
+    "Ferramenta utilizada": "Modelo Research Strategy Q (Modelo Q)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Dados empíricos e sintéticos de publicações"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00344",
+    "Título": "A framework for demonstrating, forecasting, and explaining topic evolution by analyzing geometrical motion of topic embeddings",
+    "Autoria": "Shengzhi Huang, Wei Lu, Qikai Cheng, Yong Huang, Fan Yi, Zhu Liang",
+    "Palavras-chave": "Motion (physics), Computer science, Artificial intelligence, Data science",
+    "Ferramenta utilizada": "Modelos de Regressão Vetorial, Support Vector Machine (SVM), Modelos de Embeddings de Tópicos baseados em LMs",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "15 milhões de artigos de Ciência da Computação"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00350",
+    "Título": "The effect of public funding on long-term relocation of experienced researchers: An analysis of the Marie Curie Career Integration Grant",
+    "Autoria": "Marco Seeber, Mattia Cattaneo, Carlo Debernardi, David G. Pina",
+    "Palavras-chave": "Relocation, Marie curie, Productivity, European union, Position (finance), Political science, Demographic economics, Term (time), Business, Economic growth, Economics, Computer science, International trade, Finance",
+    "Ferramenta utilizada": "Modelos de regressão (Regression analysis)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Marie Curie Actions sob o 7º Programa-Quadro da UE (CIG)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00354",
+    "Título": "Measuring the impact of the COVID-19 pandemic on the activeness, efficiency, and international collaboration of clinical trials",
+    "Autoria": "Wenjing Zhao, Chi Yuan, Zixuan He, Jian Du",
+    "Palavras-chave": "Coronavirus disease 2019 (COVID-19), Pandemic, 2019-20 coronavirus outbreak, Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), Clinical trial, Virology, Medicine, Outbreak, Infectious disease (medical specialty), Internal medicine",
+    "Ferramenta utilizada": "Modelo de Séries Temporais Interrompidas (Interrupted Time Series), Métodos de Mineração de Texto",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "ClinicalTrials.gov, Dimensions"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00356",
+    "Título": "Historical development and global standings: Charting the cartography of humanities and social sciences research in East Asia",
+    "Autoria": "Lili Yang, Mengyang Li",
+    "Palavras-chave": "East Asia, Cartography, Geography, History, Humanities, China, Art, Archaeology",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Bases de dados bibliográficas (Scopus/Web of Science)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00357",
+    "Título": "On author self-citations as carriers of scientific topic structure information",
+    "Autoria": "Paul Donner, Edwin A. Henneken",
+    "Palavras-chave": "Data science, Computer science, Information retrieval, Psychology",
+    "Ferramenta utilizada": "Algoritmos de agrupamento em rede (Network clustering)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Bases de dados de astronomia e astrofísica, registros de busca de bases de literatura"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00360",
+    "Título": "Transforming role classification in scientific teams using LLMs and advanced predictive analytics",
+    "Autoria": "Wonduk Seo, Yi Bu",
+    "Palavras-chave": "Predictive analytics, Analytics, Data science, Computer science, Psychology",
+    "Ferramenta utilizada": "GPT-4, Llama3 70B, Llama2 70B, Mistral 7x8B (LLMs), Modelos Preditivos de Deep Learning (XGBoost/BERT)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "OpenAlex"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss_a_00362",
+    "Título": "Two definitions to characterize the relations between columns in a given scholarly metadata data set",
+    "Autoria": "Simon Willemin",
+    "Palavras-chave": "Metadata, Information retrieval, Computer science, Data science, World Wide Web",
+    "Ferramenta utilizada": "Diagrama de Monotonia, Diagrama de Dependência, Estatística de Proporção Condicional",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "OpenAlex, Dimensions"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.4",
+    "Título": "Unpacking the connection between funding configurations and research teams’ interdisciplinary practices",
+    "Autoria": "Adrián A. Díaz‐Faes, François Perruchas, Carter Walter Bloch, Pablo D’Este",
+    "Palavras-chave": "Receipt, Acknowledgement, Public relations, Variety (cybernetics), Diversity (politics), Political science, Unpacking, Grant funding, Corporate governance, Sociology, Public administration, Business, Accounting, Finance",
+    "Ferramenta utilizada": "Análise de Painel (Panel data analysis), Análise de Redes de Coautoria",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Agradecimentos de financiamento de publicações de Food Science e Renewable Energy"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.2",
+    "Título": "Hierarchical classification of research fields in the MAG science network using deep learning",
+    "Autoria": "Susie Xi Rao, Peter Egger, Ce Zhang",
+    "Palavras-chave": "Computer science, Categorization, Hierarchy, Field (mathematics), Search engine indexing, Multi-label classification, Artificial intelligence, Set (abstract data type), Convolutional neural network, Graph, Machine learning, Information retrieval, Text categorization, Data mining, Theoretical computer science",
+    "Ferramenta utilizada": "Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Transformers",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Microsoft Academic Graph (MAG)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.3",
+    "Título": "Words connecting communities: Representing the polysemy of argumentation",
+    "Autoria": "Benedetto Lepori, Natalija Todorović",
+    "Palavras-chave": "Polysemy, Argumentation theory, Set (abstract data type), Linguistics, Computer science, Meaning (existential), Word (group theory), Bridging (networking), Epistemology, Sociology, Natural language processing, Philosophy",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Scopus"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.9",
+    "Título": "Facilitating interdisciplinary knowledge transfer with research paper recommender systems",
+    "Autoria": "Eoghan Cunningham, Barry Smyth, Derek Greene",
+    "Palavras-chave": "Recommender system, Knowledge transfer, Computer science, Knowledge management, Data science, World Wide Web",
+    "Ferramenta utilizada": "Sistemas de Recomendação de Artigos (Research paper recommender systems), Modelos de NLP, Análise de Redes",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Bases de dados de publicações científicas"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.8",
+    "Título": "The funding configuration method: Tracing and visualizing all research grants of individual researchers",
+    "Autoria": "Andreas Kjær Stage, D. A. Thomas, Irene Ramos-Vielba, Carter Walter Bloch",
+    "Palavras-chave": "Tracing, Process tracing, Computer science, Political science, Data science, Law, Programming language, Politics",
+    "Ferramenta utilizada": "Método de Configuração de Financiamento (Funding configuration method)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados, visualização - gerar gráficos",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "N/A (Trabalho metodológico conceitual)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.15",
+    "Título": "Does citation context information enhance the validity of citation analysis for measuring research quality? An empirical comparison of peer assessments and enriched citations",
+    "Autoria": "Paul Donner, Stephan Stahlschmidt, Robin Haunschild, Lutz Bornmann",
+    "Palavras-chave": "Citation, Context (archaeology), Peer review, Citation analysis, Quality (philosophy), Empirical research, Computer science, Data science, Psychology, Information retrieval, World Wide Web, Statistics, Biology, Mathematics",
+    "Ferramenta utilizada": "Modelos estatísticos de associação (Statistical association models)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Web of Science (Clarivate), Faculty Opinions (H1 Connect)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.19",
+    "Título": "Using peer review to evaluate the societal relevance of humanities research",
+    "Autoria": "Stijn Conix, Leander Vignero, Olivier Lemeire, Pei‐Shan Chi, Lin Li",
+    "Palavras-chave": "Relevance (law), Humanities, Digital humanities, Sociology, Medical humanities, Peer review, Psychology, Political science, Art, Medicine, Medical education, Law",
+    "Ferramenta utilizada": "Modelos de Avaliação por Pares (Peer review models)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Web of Science"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.18",
+    "Título": "Research funding during COVID-19 inflated gender differences: Systematic analysis of nationwide data from Denmark",
+    "Autoria": "Emil Bargmann Madsen, Jens Peter Andersen, Christine E. Parsons",
+    "Palavras-chave": "Pandemic, Coronavirus disease 2019 (COVID-19), Work (physics), Political science, Publishing, Gateway (web page), Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), 2019-20 coronavirus outbreak, Demographic economics, Public relations, Medicine, Economics, Law",
+    "Ferramenta utilizada": "N/A",
+    "Identifica a ferramenta?": "N/A",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "14 agências de fomento públicas e privadas na Dinamarca"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.21",
+    "Título": "Searching for gendered use of modality in grant proposals: A comparative study",
+    "Autoria": "Axel Philipps, Zlata Liwschin",
+    "Palavras-chave": "Modality (human–computer interaction), Political science, Psychology, Linguistics, Library science, Computer science, Artificial intelligence, Philosophy",
+    "Ferramenta utilizada": "Métodos de Mineração de Texto personalizados (modality search)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "coleta dos dados, análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Propostas de financiamento (Grant proposals)"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.392",
+    "Título": "Modeling the evolution of the gold open access market for the equilibrium article processing charge of journals with a Hotelling duopoly game",
+    "Autoria": "Xiaowen Tong, Xiaoqun Yuan, Qing-Zhe Wang, Wenyue Zhong",
+    "Palavras-chave": "Duopoly, Credibility, Reputation, Competition (biology), Set (abstract data type), Construct (python library), Nash equilibrium, Market share",
+    "Ferramenta utilizada": "Jogo de Duopólio Hotelling de Três Estágios (Hotelling duopoly game), Simulação Numérica",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Dados empíricos de 1.346 periódicos de acesso aberto padrão ouro"
+  },
+  {
+    "DOI": "https://doi.org/10.1162/qss.a.395",
+    "Título": "Reliability and validity of a high-profile peer review study: Probing Wennerås and Wold’s data in <i>Nature</i>",
+    "Autoria": "Ulf Sandström, Ulla Riis",
+    "Palavras-chave": "Disadvantage, Context (archaeology), Milestone, Rigour, Peer review, Meta-analysis, Discipline, Operationalization, Reliability (semiconductor)",
+    "Ferramenta utilizada": "Técnicas de Normalização, Análise de Redes (Network-based analysis)",
+    "Identifica a ferramenta?": "Sim",
+    "Onde usou (coleta dos dados, análise dos dados ou visualização - gerar gráficos)": "análise dos dados",
+    "Fonte de coleta de dados (da onde o pesquisador tirou a informação?)": "Conjunto de dados original da pesquisa de bolsas de medicina de Wennerås & Wold (1997)"
+  }
+]
