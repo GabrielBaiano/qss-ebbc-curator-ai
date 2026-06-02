@@ -6,7 +6,7 @@ root_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.join(root_dir, "scripts"))
 
 try:
-    import refine_with_abstracts
+    from scripts import refine_with_abstracts
     refine_with_abstracts.main()
 except KeyboardInterrupt:
     print("\n\nExecução interrompida pelo usuário. Saindo...")
