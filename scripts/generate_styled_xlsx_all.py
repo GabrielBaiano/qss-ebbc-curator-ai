@@ -4,9 +4,9 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
-def fill_sheet(ws, data, year, header_color, tab_color, zebra_color):
+def fill_sheet(ws, data, title, header_color, tab_color, zebra_color):
     # Definir propriedades da aba
-    ws.title = year
+    ws.title = title
     ws.sheet_properties.tabColor = tab_color
     
     # Cabeçalhos originais da planilha
@@ -63,7 +63,6 @@ def fill_sheet(ws, data, year, header_color, tab_color, zebra_color):
     
     # Preencher dados
     for row_idx, item in enumerate(data, start=2):
-        # Mapeamento do item JSON para as colunas
         row_data = [
             item.get("DOI", ""),
             item.get("Título", ""),
@@ -77,7 +76,7 @@ def fill_sheet(ws, data, year, header_color, tab_color, zebra_color):
         
         # Inserir linha
         ws.append(row_data)
-        ws.row_dimensions[row_idx].height = 24  # Altura confortável para leitura com wrap_text
+        ws.row_dimensions[row_idx].height = 24
         
         # Cor de fundo alternada (zebra striping)
         current_fill = fill_zebra if row_idx % 2 == 0 else fill_white
@@ -93,7 +92,7 @@ def fill_sheet(ws, data, year, header_color, tab_color, zebra_color):
             else:
                 cell.alignment = align_left
                 
-            # Tratar coluna DOI (coluna 1) como hiperlink real
+            # Tratar coluna DOI (coluna 1) como hiperlink real se for URL válida
             if col_idx == 1 and value and value.startswith("http"):
                 cell.hyperlink = value
                 cell.font = font_link
@@ -103,7 +102,7 @@ def fill_sheet(ws, data, year, header_color, tab_color, zebra_color):
     # Congelar cabeçalho (linha 1)
     ws.freeze_panes = "A2"
     
-    # Adicionar filtros automáticos nas colunas do cabeçalho
+    # Adicionar filtros automáticos
     ws.auto_filter.ref = f"A1:{get_column_letter(len(headers))}{len(data) + 1}"
     
     # Configurar larguras ideais de colunas
@@ -122,43 +121,53 @@ def fill_sheet(ws, data, year, header_color, tab_color, zebra_color):
         col_letter = get_column_letter(col_idx)
         ws.column_dimensions[col_letter].width = width
 
+def load_json(filename):
+    root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    filepath = os.path.join(root_dir, "datasets", filename)
+    if not os.path.exists(filepath):
+        print(f"Aviso: Arquivo {filepath} não encontrado! Aba correspondente será criada vazia.")
+        return []
+    with open(filepath, "r", encoding="utf-8") as f:
+        return json.load(f)
+
 def main():
-    print("Iniciando a geração e estilização da planilha excel...")
+    print("Iniciando a consolidação estilizada da planilha Excel...")
     
-    # Carregar dados do Volume 5 (2024)
-    vol5_path = "qss_volume_5_data.json"
-    if not os.path.exists(vol5_path):
-        raise FileNotFoundError(f"Arquivo {vol5_path} não encontrado!")
-    with open(vol5_path, "r", encoding="utf-8") as f:
-        data_2024 = json.load(f)
-        
-    # Carregar dados do Volume 6 (2025)
-    vol6_path = "qss_volume_6_data.json"
-    if not os.path.exists(vol6_path):
-        raise FileNotFoundError(f"Arquivo {vol6_path} não encontrado!")
-    with open(vol6_path, "r", encoding="utf-8") as f:
-        data_2025 = json.load(f)
-        
-    print(f"Dados carregados: {len(data_2024)} artigos para 2024 e {len(data_2025)} artigos para 2025.")
-    
-    # Criar novo workbook
     wb = Workbook()
     
-    # Configurar aba 2024 (Planilha 1)
-    ws_2024 = wb.active
-    # Cabeçalho Slate `#1E293B`, Tab Slate `#1E293B`, Zebra suave `#F8FAFC`
-    fill_sheet(ws_2024, data_2024, "2024", "1E293B", "1E293B", "F8FAFC")
+    # Configuração dos dados de entrada: (nome_arquivo, nome_da_aba, cor_cabecalho, cor_tab, cor_zebra)
+    sheets_config = [
+        # QSS
+        ("qss_volume_1_data.json", "QSS 2020", "1E3A8A", "1E3A8A", "F0F9FF"),
+        ("qss_volume_2_data.json", "QSS 2021", "B45309", "B45309", "FEF3C7"),
+        ("qss_volume_3_data.json", "QSS 2022", "6D28D9", "6D28D9", "F5F3FF"),
+        ("qss_volume_4_data.json", "QSS 2023", "BE185D", "BE185D", "FDF2F8"),
+        ("qss_volume_5_data.json", "QSS 2024", "1E293B", "1E293B", "F8FAFC"),
+        ("qss_volume_6_data.json", "QSS 2025", "0F766E", "0F766E", "F0FDF4"),
+        # EBBC
+        ("ebbc_2020_data.json", "EBBC 2020", "047857", "047857", "ECFDF5"),
+        ("ebbc_2022_data.json", "EBBC 2022", "C2410C", "C2410C", "FFF7ED"),
+        ("ebbc_2024_data.json", "EBBC 2024", "4338CA", "4338CA", "EEF2FF")
+    ]
     
-    # Configurar aba 2025 (Planilha 2)
-    ws_2025 = wb.create_sheet()
-    # Cabeçalho Deep Teal `#0F766E`, Tab Deep Teal `#0F766E`, Zebra suave `#F0FDF4`
-    fill_sheet(ws_2025, data_2025, "2025", "0F766E", "0F766E", "F0FDF4")
-    
-    # Salvar a planilha no caminho especificado
-    excel_output_path = "coleta de dados gabriel.xlsx"
+    first = True
+    for filename, tab_title, header_col, tab_col, zebra_col in sheets_config:
+        print(f"Carregando dados para aba: {tab_title}...")
+        data = load_json(filename)
+        print(f"Aba '{tab_title}' carregada com {len(data)} registros.")
+        
+        if first:
+            ws = wb.active
+            first = False
+        else:
+            ws = wb.create_sheet()
+            
+        fill_sheet(ws, data, tab_title, header_col, tab_col, zebra_col)
+        
+    root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    excel_output_path = os.path.join(root_dir, "coleta de dados gabriel.xlsx")
     wb.save(excel_output_path)
-    
-    print(f"Sucesso! A planilha '{excel_output_path}' foi criada e estilizada com maestria.")
+    print(f"\nSucesso! A planilha '{excel_output_path}' foi atualizada e estilizada com maestria.")
 
 if __name__ == "__main__":
     main()
