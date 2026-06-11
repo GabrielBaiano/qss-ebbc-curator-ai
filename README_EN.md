@@ -64,11 +64,11 @@ The files are organized in a modular and clean structure:
 
 ## 🛠️ How it Works and How to Run (Tutorial)
 
-### Requirements
+### Prerequisites
 - Python 3.10 or higher.
-- `openpyxl` library installed in the Python environment:
+- Install the required dependencies:
   ```bash
-  pip install openpyxl
+  pip install -r requirements.txt
   ```
 
 ### Running the Curation
@@ -132,6 +132,29 @@ The pipeline comes with a configured public default key for free initial runs. I
 
 2. **Editing the Code**:
    You can also directly edit the `scripts/refine_with_abstracts.py` file and change the default value of the variable on line 16.
+
+---
+
+## 📝 How to Cite
+
+If you use this code or the datasets in your research, please cite it as:
+
+**APA:**
+Baiano, G. (2026). Extrator de Metadados, Classificação Semântica e Curadoria por IA para Quantitative Science Studies (QSS) e EBBC (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20638523
+
+**BibTeX:**
+```bibtex
+@software{baiano_curadoria_2026,
+  author       = {Baiano, Gabriel},
+  title        = {Extrator de Metadados, Classificação Semântica e Curadoria por IA para Quantitative Science Studies (QSS) e EBBC},
+  month        = jun,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.20638523},
+  url          = {https://doi.org/10.5281/zenodo.20638523}
+}
+```
 
 ---
 
