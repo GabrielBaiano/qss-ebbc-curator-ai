@@ -140,12 +140,12 @@ The pipeline comes with a configured public default key for free initial runs. I
 If you use this code or the datasets in your research, please cite it as:
 
 **APA:**
-Baiano, G. (2026). Extrator de Metadados, Classificação Semântica e Curadoria por IA para Quantitative Science Studies (QSS) e EBBC (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20638523
+Gama, G. N. (2026). Extrator de Metadados, Classificação Semântica e Curadoria por IA para Quantitative Science Studies (QSS) e EBBC (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20638523
 
 **BibTeX:**
 ```bibtex
-@software{baiano_curadoria_2026,
-  author       = {Baiano, Gabriel},
+@software{gama_curadoria_2026,
+  author       = {Gama, Gabriel Nascimento},
   title        = {Extrator de Metadados, Classificação Semântica e Curadoria por IA para Quantitative Science Studies (QSS) e EBBC},
   month        = jun,
   year         = 2026,

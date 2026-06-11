@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "Baiano"
-    given-names: "Gabriel"
+  - family-names: "Gama"
+    given-names: "Gabriel Nascimento"
     email: "gabrielngama@gmail.com"
 title: "Extrator de Metadados, Classificação Semântica e Curadoria por IA para Quantitative Science Studies (QSS) e EBBC"
 version: "1.0.0"
