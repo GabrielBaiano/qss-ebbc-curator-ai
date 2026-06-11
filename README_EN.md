@@ -2,8 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20638523.svg)](https://doi.org/10.5281/zenodo.20638523)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-[🇧🇷 Português](README.md) | 🇬🇧 **English**
+[![Language: PT-BR](https://img.shields.io/badge/Language-PT--BR-green.svg)](README.md)
 
 This directory contains the automated and intelligent pipeline for extraction, text analysis, semantic curation, and Excel spreadsheet consolidation of **all scientific publications** from the prestigious journal **Quantitative Science Studies (QSS)** (Volumes 1 to 6) and the **Encontro Brasileiro de Bibliometria e Cientometria (EBBC)** (years 2020, 2022, and 2024).
 
